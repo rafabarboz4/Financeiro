@@ -18,6 +18,10 @@ body{
 .container{
     margin:  30px auto;
     width: 350px;
+    border: #bbb 3px solid;
+    border-radius: 15px;
+    padding: 15px 20px;
+    box-shadow: rgb(8, 6, 6) 0px 0px 10px 0px;  
 }
 h1{
     border-bottom: 1px solid #bbb;
